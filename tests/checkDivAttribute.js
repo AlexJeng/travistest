@@ -4,4 +4,6 @@ describe('getDivAttribute', function() {
     it('Should be bar', function() {
         expect(d.getAttribute('foo')).toBe('bar');
     });
+
+    console.log("TESTING1")
 });

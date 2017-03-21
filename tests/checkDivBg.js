@@ -4,4 +4,6 @@ describe('getDivBg', function() {
     it('Should be teal', function() {
         expect(d.style.backgroundColor).toBe('teal');
     });
+    console.log("TESTING2")
+
 });
